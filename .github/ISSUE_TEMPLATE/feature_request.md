@@ -1,31 +1,33 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Suggestion / Feature request
+about: Suggest an idea to improve AutoPlus (bot, server, website, etc.)
 title: ''
 labels: feat
 assignees: ''
-
 ---
 
-**Suggestion applies to:**
+**Summary**
+A short, clear summary of the suggestion.
+
+**Applies to**
 - [ ] Discord bot
 - [ ] Discord server
 - [ ] Website
-- [ ] Other (please specify):
+- [ ] Other (please specify): 
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Problem / Motivation**
+Describe the problem or motivation for this request. Why is this improvement helpful?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Proposed solution**
+Describe the solution you want. Be as specific as possible (UI mockups, command examples, expected behavior).
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Alternatives considered**
+Describe other solutions you considered and why they were not suitable.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
-
-**Priority / Impact**
+**Impact / Priority**
 - [ ] Nice to have
 - [ ] Important
-- [ ] Critical
+- [ ] Critical (blocks usage)
+
+**Additional context**
+Add any other context, links, mockups or screenshots here.
